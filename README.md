@@ -1,5 +1,20 @@
 ## 🙋‍♂️ Introducing Myself
+## Hi, I'm Dirceu
 
+Computer Science transfer applicant interested in:
+- Software development
+- Automation
+- Data analytics
+
+Currently working on:
+- Discord moderation bot (Python)
+- Retail sales data analytics dashboard
+
+Languages:
+Python, Java, SQL, HTML/CSS
+
+Education:
+Associate Degree – Palm Beach State College
 
 <!--
 **DirceuEspinal/DirceuEspinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
